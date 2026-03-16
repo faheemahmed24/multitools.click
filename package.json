@@ -30,7 +30,7 @@
   "scripts": {
     "dev": "vite",
     "lint": "tsc --noEmit",
-    "build": "vite build",
+    "build": "vite build && node scripts/generate-sitemap.mjs",
     "preview": "vite preview"
   }
 }
