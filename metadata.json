@@ -1,0 +1,9 @@
+{
+  "name": "MultiTools",
+  "description": "High-fidelity universal engine for transcription, data mirroring, and professional reporting. Optimized for 100+ global languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
